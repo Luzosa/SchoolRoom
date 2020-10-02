@@ -1,0 +1,13 @@
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\bin\Debug\FormUI.exe.config
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\bin\Debug\FormUI.exe
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\bin\Debug\FormUI.pdb
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\bin\Debug\Dapper.dll
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\bin\Debug\Dapper.xml
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\obj\Debug\FormUI.csprojAssemblyReference.cache
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\obj\Debug\FormUI.Dashboard.resources
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\obj\Debug\FormUI.Properties.Resources.resources
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\obj\Debug\FormUI.csproj.GenerateResource.cache
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\obj\Debug\FormUI.csproj.CoreCompileInputs.cache
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\obj\Debug\FormUI.csproj.CopyComplete
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\obj\Debug\FormUI.exe
+C:\Users\lion0005\Documents\Repos\SchoolsProject\FormUI\obj\Debug\FormUI.pdb

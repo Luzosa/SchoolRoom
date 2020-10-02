@@ -1,0 +1,16 @@
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\bin\Debug\ConnDataBase.exe.config
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\bin\Debug\ConnDataBase.exe
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\bin\Debug\ConnDataBase.pdb
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\bin\Debug\DataAccessLibrary.dll
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\bin\Debug\RoomLibrary.dll
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\bin\Debug\Dapper.dll
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\bin\Debug\DataAccessLibrary.pdb
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\bin\Debug\RoomLibrary.pdb
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\bin\Debug\Dapper.xml
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\obj\Debug\ConnDataBase.csprojAssemblyReference.cache
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\obj\Debug\ConnDataBase.csproj.CoreCompileInputs.cache
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\obj\Debug\ConnDataBase.csproj.CopyComplete
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\obj\Debug\ConnDataBase.exe
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\obj\Debug\ConnDataBase.pdb
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\obj\Debug\ConnDataBase.ProjectInstaller.resources
+C:\Users\lion0005\Documents\Repos\SchoolsProject\ConnDataBase\obj\Debug\ConnDataBase.csproj.GenerateResource.cache

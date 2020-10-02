@@ -1,0 +1,16 @@
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\bin\Debug\Service.exe.config
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\bin\Debug\Service.exe
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\bin\Debug\Service.pdb
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\bin\Debug\DataAccessLibrary.dll
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\bin\Debug\Topshelf.dll
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\bin\Debug\RoomLibrary.dll
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\bin\Debug\Dapper.dll
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\bin\Debug\DataAccessLibrary.pdb
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\bin\Debug\Topshelf.xml
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\bin\Debug\RoomLibrary.pdb
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\bin\Debug\Dapper.xml
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\obj\Debug\Service.exe
+C:\Users\lion0005\Documents\Repos\SchoolsProject\Service\obj\Debug\Service.pdb

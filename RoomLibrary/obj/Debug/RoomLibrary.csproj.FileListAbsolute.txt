@@ -1,0 +1,6 @@
+C:\Users\lion0005\Documents\Repos\SchoolsProject\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\lion0005\Documents\Repos\SchoolsProject\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\lion0005\Documents\Repos\SchoolsProject\RoomLibrary\obj\Debug\RoomLibrary.csprojAssemblyReference.cache
+C:\Users\lion0005\Documents\Repos\SchoolsProject\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lion0005\Documents\Repos\SchoolsProject\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\lion0005\Documents\Repos\SchoolsProject\RoomLibrary\obj\Debug\RoomLibrary.pdb
